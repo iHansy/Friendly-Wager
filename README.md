@@ -10,6 +10,8 @@ The app also features a friends list feature where the user can see all of their
 
 The user also has the capability to see all of their own 'Open Bets', 'Active Bets', and 'Historical Information' of bets they have won and lost. The historical information is calculated at the end of each week.
 
+Check out the live application here - http://friendlywager.herokuapp.com/
+
 ## Screenshots
 
 <div>
